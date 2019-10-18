@@ -1,6 +1,6 @@
 # Menu
 
-## This project was done, when I was learning about java in my college
+## This project was done, when I was learning about java in my college. Wew, all the code is dumped in one file
 
 ## Features
 
